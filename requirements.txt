@@ -1,0 +1,21 @@
+En tu proyecto deberá verse:
+
+un archivo README (sólo texto) en el repositorio de Bitbucket.
+
+el mensaje de bienvenida a Express.
+
+el proyecto vinculado con el repositorio de Bitbucket creado previamente.
+
+el servidor que se ve correctamente, comparándolo con la versión original.
+
+un mapa centrado en una ciudad.
+
+marcadores indicando una  ubicación.
+
+un script npm en el archivo package.json, debajo del “start”, que se llama “devstart” y que levanta el servidor utilizando npdemon.
+
+un par de bicicletas en la colección que conoce la bicicleta en memoria, con las ubicaciones cercanas al centro del mapa agregado.
+
+una colección del modelo de bicicleta.
+
+los endpoints de la API funcionando con Postman.
